@@ -1,0 +1,6 @@
+export default function ProfilePicture({src,alt}){
+    return(
+        <img src={src} alt={alt}/>
+    );
+    
+}

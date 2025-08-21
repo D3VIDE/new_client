@@ -1,11 +1,10 @@
 import './style.css';
-import Foto from './components/Foto.jsx'
+import ProfilePicture from './components/Foto.jsx'
 function Hello(){
-    const name = "Jose";
+    
     return (
         <div>
-            <p>Halo,<span className="warnabiru"> {name}</span></p>
-            <h1> hello </h1>
+            <h1> My Aplication Header </h1>
         </div>
     )
     
